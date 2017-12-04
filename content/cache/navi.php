@@ -1,0 +1,1 @@
+<?php exit;//a:1:{i:1;a:11:{s:2:"id";i:1;s:8:"naviname";s:6:"首页";s:3:"url";s:0:"";s:6:"newtab";s:1:"n";s:9:"isdefault";s:1:"y";s:4:"type";i:1;s:6:"typeId";i:0;s:5:"taxis";i:1;s:4:"hide";s:1:"n";s:3:"pid";i:0;s:8:"children";a:0:{}}}

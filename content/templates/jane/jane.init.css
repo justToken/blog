@@ -1,0 +1,47 @@
+	/*jane init*/
+	body{
+		color:  !important;
+
+	background:#ccc !important;
+	}
+	a{
+		color: ;
+	}
+	.navbar-default{
+		
+	border-top-color:  !important;
+	
+	}
+	.navbar a{
+		
+	color:  !important;
+	}
+	.navbar .current a{
+		
+	}
+
+	.navbar-default .dropdown a:hover,.navbar-default .dropdown-toggle a:hover,.current>a{
+		
+		background:  !important;
+		;
+	}
+	.cbbfixed .cbbtn,.panel .panel-heading{
+		
+		background:  !important;
+		color: !important;
+	}
+	.freedom_list .panel,#log-list,.panel .panel-heading,#side .panel,#log .panel,#page .panel,#footer-link .panel,#w .panel{
+	
+			border-color: !important;
+		opacity:0.;
+	}
+
+	#log-list h4{
+		
+		border-top-color: ;
+	}
+	.loader div {
+ 		 background: ;
+ 		 
+	}
+	/*jane init*/
